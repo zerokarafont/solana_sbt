@@ -1,0 +1,3 @@
+- [] verify collection item
+- [] token_2022 non transferable
+- [] how to update metadata
